@@ -39,14 +39,14 @@ binary_pattern(rows, columns)
 
 ```
 ### OUTPUT
-```
+
 ![Screenshot 2025-04-30 114000](https://github.com/user-attachments/assets/abbe196a-c0da-4fb1-b48f-35408711b68d)
 
 
-```
+
 ### RESULT
 ```
-thus the  Python  program to print binary number pattern of n rows and m columns using loop was exceuted secussfully
+thus the  Python  program to print binary number pattern of n rows and m columns using loop was executed successfully
 
 ```
 
