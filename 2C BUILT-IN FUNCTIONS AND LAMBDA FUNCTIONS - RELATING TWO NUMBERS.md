@@ -48,6 +48,6 @@ print(a(x,y,z))
 ### RESULT
 
 ```
-thus the  program in Python to calculate the value of the following expression by using lambda function was exceuted successfully
+thus the  program in Python to calculate the value of the following expression by using lambda function was executed successfully
 
 ```
