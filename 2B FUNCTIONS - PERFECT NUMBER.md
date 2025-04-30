@@ -1,5 +1,5 @@
 # Exp.No:2b  
-## FUNCTIONS -   multiplication
+## FUNCTIONS - MULTIPLICATION
 
 ### AIM  
 To write a python program to define a function named "result" that accepts 3  values and return its  multiplication
@@ -45,4 +45,4 @@ print(f"Multiply is {result_value}")
 
 
 ### RESULT
-thus the python program to define a function named "result" that accepts 3  values and return its  multiplication was excueted successfully
+thus the python program to define a function named "result" that accepts 3  values and return its  multiplication was executed successfully
