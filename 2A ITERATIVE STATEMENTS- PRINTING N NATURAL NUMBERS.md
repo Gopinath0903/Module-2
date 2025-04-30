@@ -1,5 +1,5 @@
 # Exp. No: 2a  
-## ITERATIVE STATEMENTS –binary number pattern 
+## ITERATIVE STATEMENTS – BINARY NUMBER PATTERN
 
 ###  Aim
 To create a Python  program to print binary number pattern of n rows and m columns using loop
