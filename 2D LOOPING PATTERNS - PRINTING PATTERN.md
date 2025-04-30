@@ -40,4 +40,4 @@ for i in range(a,0,-1):
 
 
 ### RESULT
-thus the python program  to print the downward pyramid pattern of stars was excueted successfully
+thus the python program  to print the downward pyramid pattern of stars was executed successfully
