@@ -39,11 +39,11 @@ print(a(x,y,z))
 
 ### OUTPUT
 
-```
+
 ![Screenshot 2025-04-30 115557](https://github.com/user-attachments/assets/ce412d94-d276-477e-afd4-f30d15cc41dd)
 
 
-```
+
 
 ### RESULT
 
